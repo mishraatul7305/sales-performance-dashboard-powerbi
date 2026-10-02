@@ -11,6 +11,6 @@ I analysed ₹/$8.41M in sales across 17+ cities to understand profit, customer 
 
 Tools: Power BI, DAX, Excel
 
-🔗 GitHub: [link]
+🔗 linkdink : [https://www.linkedin.com/feed/update/urn:li:activity:7511663571592921088/ ]
 
 Feedback is welcome! #PowerBI #DataAnalytics #DataVisualization #Dashboard #PortfolioProject
